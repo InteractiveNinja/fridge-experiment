@@ -6,8 +6,6 @@ Büro zu fairen Preisen zu kaufen – ganz ohne den Weg zum nächsten Laden.
 Die Bezahlung und das Nachfüllen übernehme ich selbst. So entsteht eine praktische Lösung, um den Büroalltag angenehmer
 zu machen und spontan für Erfrischung zu sorgen.
 
-![logo.jpg](assets/logo.jpg)
-
 ---
 
 ## 🏷️ Aktuelle Preisliste
