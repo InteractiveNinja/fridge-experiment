@@ -24,7 +24,7 @@ zu machen und spontan für Erfrischung zu sorgen.
 ---
 
 ## 👤 Wer steckt dahinter?
-![me.jpeg](assets/me.jpeg)
+![me.jpeg](assets/me.jpg)
 
 ## ❓ FAQ
 
