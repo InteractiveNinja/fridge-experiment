@@ -23,13 +23,16 @@ zu machen und spontan für Erfrischung zu sorgen.
 
 ---
 
+## 👤 Wer steckt dahinter?
+![me.jpeg](assets/me.jpeg)
+
 ## ❓ FAQ
 
 ### 🔹 Wie funktioniert es?
 
 1. Wunschgetränk aus dem Kühlschrank nehmen.
 2. Den angeschriebenen Preis via **TWINT** per QR-Code bezahlen.
-3. Genießen. 🙂
+3. Geniessen. 🙂
 
 ### 🔹 Kann ich mir Getränke wünschen?
 
