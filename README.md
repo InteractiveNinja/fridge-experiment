@@ -29,7 +29,7 @@ zu machen und spontan für Erfrischung zu sorgen.
 ### 🔹 Wie funktioniert es?
 
 1. Wunschgetränk aus dem Kühlschrank nehmen.
-2. Den angeschriebenen Preis via **TWINT** per QR-Code bezahlen.
+2. Den angeschriebenen Preis via **TWINT** oder **SumUp** per QR-Code bezahlen.
 3. Geniessen. 🙂
 
 ### 🔹 Kann ich mir Getränke wünschen?
@@ -39,8 +39,26 @@ Gerne! Melde dich persönlich oder per
 
 ### 🔹 Kann ich auch bar bezahlen?
 
-TWINT ist für mich organisatorisch am einfachsten – daher ist es das einzige akzeptierte Zahlungsmittel.  
+**TWINT** und **SumUp** ist für mich organisatorisch am einfachsten – daher ist es das einzige akzeptierte Zahlungsmittel.  
 Danke für dein Verständnis!
+
+### 🔹 Wie zahle ich mit TWINT?
+![twint.png](assets/twint.png)
+
+TWINT ist eine Schweizer Mobile-Payment-App.
+
+Du bezahlst, indem du den QR-Code am Kühlschrank mit der TWINT-App scannst.
+
+Danach bestätigst du den Betrag auf deinem Smartphone – und die Zahlung ist sofort erledigt.
+
+### 🔹 Was zahle ich mit SumUp
+![sumup.png](assets/sumup.png)
+
+Am Kühlschrank findest du einen QR-Code von SumUp zum Scannen.
+
+Du öffnest den Link auf deinem Smartphone, gibst Kartendaten ein oder bezahlst mit Apple Pay / Google Pay.
+
+Nach der Bestätigung ist die Zahlung abgeschlossen und du kannst dein Getränk mitnehmen.
 
 ---
 
