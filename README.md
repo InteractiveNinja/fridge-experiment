@@ -12,6 +12,7 @@ zu machen und spontan für Erfrischung zu sorgen.
 
 | Getränk             | Preis (CHF) |
 |---------------------|-------------|
+| El Tony Mate        | 1.90        |
 | Monster White       | 1.70        |
 | Red Bull Fuji Apfel | 1.70        |
 | Red Bull            | 1.50        |
