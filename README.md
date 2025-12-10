@@ -12,10 +12,10 @@ zu machen und spontan für Erfrischung zu sorgen.
 
 | Getränk             | Preis (CHF) |
 |---------------------|-------------|
+| Monster White       | 1.70        |
+| Red Bull Fuji Apfel | 1.70        |
 | Red Bull            | 1.50        |
 | Red Bull Zero       | 1.50        |
-| Red Bull Fuji Apfel | 1.70        |
-| Monster White       | 1.70        |
 | Guaraná             | 1.30        |
 | Schnitzwasser       | 1.00        |
 
