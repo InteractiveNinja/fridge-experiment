@@ -1,10 +1,8 @@
 # 🧊 The Fridge Experiment
 [![Drinks](https://img.shields.io/badge/Drinks_you_like-anytime_you_want-purple)](https://img.shields.io/badge/Drinks_you_like-anytime_you_want-purple)
 
-Mit diesem Projekt möchte ich meinen Kolleginnen und Kollegen ermöglichen, jederzeit unkompliziert Getränke direkt im
-Büro zu fairen Preisen zu kaufen – ganz ohne den Weg zum nächsten Laden.  
-Die Bezahlung und das Nachfüllen übernehme ich selbst. So entsteht eine praktische Lösung, um den Büroalltag angenehmer
-zu machen und spontan für Erfrischung zu sorgen.
+Mit diesem kleinen Projekt möchte ich euch jederzeit unkompliziert Getränke direkt im Büro zu fairen Preisen anbieten, ganz ohne den Weg zum nächsten Laden.  
+Ich kümmere mich um das Nachfüllen und die Bezahlungsmöglichkeiten. So haben wir immer eine schnelle Erfrischung parat. 🙌
 
 ---
 
@@ -25,45 +23,53 @@ zu machen und spontan für Erfrischung zu sorgen.
 ## 👤 Wer steckt dahinter?
 ![me.jpeg](assets/me.jpg)
 
+Ich bin Gabriel, ich organisiere das Projekt, fülle den Kühlschrank regelmässig nach und halte die Preise fair.
+
 ## ❓ FAQ
 
 ### 🔹 Wie funktioniert es?
 
 1. Wunschgetränk aus dem Kühlschrank nehmen.
 2. Den angeschriebenen Preis via **TWINT** oder **SumUp** per QR-Code bezahlen.
-3. Geniessen. 🙂
+3. Geniessen 😄
+
+*(Bitte nimm nur was du bezahlst, das Projekt funktioniert nur wenn alle fair mitmachen. 🙏)*
 
 ### 🔹 Kann ich mir Getränke wünschen?
 
-Gerne! Melde dich persönlich oder per  
+Natürlich! Schreib mir einfach oder sag kurz Bescheid.
 📧 [Mail](mailto:gabriel@nadolny.dev)
 
 ### 🔹 Kann ich auch bar bezahlen?
 
-**TWINT** und **SumUp** ist für mich organisatorisch am einfachsten – daher ist es das einzige akzeptierte Zahlungsmittel.  
-Danke für dein Verständnis!
+Leider nicht.  
+**TWINT** und **SumUp** sind für mich organisatorisch am einfachsten, daher sind das die einzigen Zahlungsmethoden.  
+Danke fürs Verständnis!
 
 ### 🔹 Wie zahle ich mit TWINT?
 ![twint.png](assets/twint.png)
 
-TWINT ist eine Schweizer Mobile-Payment-App.
+**TWINT** ist eine Schweizer Mobile-Payment-App.
 
-Du bezahlst, indem du den QR-Code am Kühlschrank mit der TWINT-App scannst.
+So funktioniert’s:
+1. QR-Code am Kühlschrank mit TWINT scannen.
+2. Betrag bestätigen.
+3. Fertig, Geniessen 😄
 
-Danach bestätigst du den Betrag auf deinem Smartphone – und die Zahlung ist sofort erledigt.
-
-### 🔹 Was zahle ich mit SumUp
+### 🔹 Wie zahle ich mit SumUp
 ![sumup.png](assets/sumup.png)
 
-Am Kühlschrank findest du einen QR-Code von SumUp zum Scannen.
+Am Kühlschrank findest du einen **SumUp-QR-Code**.
 
-Du öffnest den Link auf deinem Smartphone, gibst Kartendaten ein oder bezahlst mit Apple Pay / Google Pay.
-
-Nach der Bestätigung ist die Zahlung abgeschlossen und du kannst dein Getränk mitnehmen.
+So funktioniert’s:
+1. QR-Code scannen.
+2. Link auf dem Smartphone öffnen.
+3. Mit Karte, Apple Pay oder Google Pay bezahlen.
+4. Zahlung bestätigen, fertig, Geniessen 😄
 
 ---
 
 ## 💬 Feedback zum Projekt
 
-Ich freue mich über jedes Feedback – melde dich gerne persönlich oder per  
+Ich freue mich über jede Rückmeldung, egal ob Verbesserungsidee, Getränkewunsch oder Lob. 😄
 📧 [Mail](mailto:gabriel@nadolny.dev)
