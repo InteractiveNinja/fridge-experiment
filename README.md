@@ -10,11 +10,11 @@ Ich kümmere mich um das Nachfüllen und die Bezahlungsmöglichkeiten. So haben 
 
 | Getränk             | Preis (CHF) |
 |---------------------|-------------|
+| Beauty Colada       | 2.30        |
 | El Tony Mate        | 1.90        |
 | Monster White       | 1.70        |
 | Red Bull Fuji Apfel | 1.70        |
 | Red Bull            | 1.50        |
-| Red Bull Zero       | 1.50        |
 | Guaraná             | 1.30        |
 | Schnitzwasser       | 1.00        |
 
