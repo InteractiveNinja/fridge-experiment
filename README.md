@@ -15,7 +15,7 @@ Ich kümmere mich um das Nachfüllen und die Bezahlungsmöglichkeiten. So haben 
 | Monster White       | 1.70        |
 | Red Bull Fuji Apfel | 1.70        |
 | Red Bull            | 1.50        |
-| Guaraná             | 1.30        |
+| Coca-Cola           | 1.05        |
 | Schnitzwasser       | 1.00        |
 
 ---
